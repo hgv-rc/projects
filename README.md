@@ -14,11 +14,11 @@ This repository is structured as follows:
 projects/
 ┗╸ year_1/
    ┗╸ student_1/
-       ┗╸ INSTALL.md
+       ┗╸ INFO.md
        ┗╸ index.js
        ┗╸ ...
    ┗╸ student_2/
-       ┗╸ INSTALL.md
+       ┗╸ INFO.md
        ┗╸ ...
 ┗╸ year_2/
    ┗╸ ...
