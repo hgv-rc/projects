@@ -8,7 +8,7 @@ This project was featured on Hillgrove Robotics Club's 2024 and 2023 Outreach an
 
 
 ## Requirements
-- Python < 3.12 (package installations fail on 3.12)
+- [Python](https://www.python.org/downloads/) < 3.12 (package installations fail on 3.12)
 - (For windows) git: https://gitforwindows.org/
 ## Run Locally
 Instructions to run project locally.
