@@ -1,4 +1,0 @@
-arcade
-mazelib
-colorama
-pyglet
