@@ -13,11 +13,11 @@ This repository is structured as follows:
 ```
 projects/
 ┗╸ year_1/
-   ┗╸ student_1/
+   ┗╸ project_1/
        ┗╸ INFO.md
        ┗╸ index.js
        ┗╸ ...
-   ┗╸ student_2/
+   ┗╸ project_2/
        ┗╸ INFO.md
        ┗╸ ...
 ┗╸ year_2/
@@ -25,6 +25,6 @@ projects/
 ```
 year_n is the year the students within that directory will be graduating or have graduated.
 
-student_n is the name of the student.
+project_n is the name of the project.
 
 Instructions on how to run or install the project will be explained in the project's directory.
