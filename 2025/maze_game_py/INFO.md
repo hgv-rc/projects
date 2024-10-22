@@ -24,7 +24,7 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd projects/2025/Jorsche/maze_game_py
+  cd projects/2025/maze_game_py
 ```
 
 Install dependencies
@@ -51,7 +51,7 @@ Clone the project
 
 Go to the project directory
 ```
-  cd projects/2025/Jorsche/maze_game_py
+  cd projects/2025/maze_game_py
 ```
 
 Install dependencies 
